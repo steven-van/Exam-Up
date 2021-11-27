@@ -1,0 +1,17 @@
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\bin\Debug\Exam'Up.exe.config
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\bin\Debug\Exam'Up.exe
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\bin\Debug\Exam'Up.pdb
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\bin\Debug\Exam'Up.xml
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\Exam'Up.vbprojAssemblyReference.cache
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\ExamUp.Accueil.resources
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\ExamUp.ChoixEpreuve.resources
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\ExamUp.Consultation.resources
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\ExamUp.Inscription.resources
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\ExamUp.Modification.resources
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\ExamUp.Recapitulatif.resources
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\ExamUp.Resources.resources
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\Exam'Up.vbproj.GenerateResource.cache
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\Exam'Up.vbproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\Exam'Up.exe
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\Exam'Up.xml
+C:\Users\Steven\Desktop\Exam'Up\Projet_IHM_VAN_MAHDJOUBI\obj\Debug\Exam'Up.pdb
